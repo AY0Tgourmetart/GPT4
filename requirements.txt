@@ -16,7 +16,7 @@ MarkupSafe==2.1.2
 poe-api==0.3.1
 pycparser==2.21
 pycryptodome==3.17
-pydantic==1.10.7
+pydantic==1.10.13
 PySocks==1.7.1
 python-socks==2.3.0
 requests==2.30.0
